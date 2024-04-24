@@ -1,0 +1,20 @@
+---
+export interface Props {
+	title: string;
+	tagline: string;
+}
+
+const { title } = Astro.props;
+---
+<footer>
+    <div class="mx-auto max-w-7xl py-12 px-4 sm:px-6 md:flex md:items-center md:justify-center lg:px-8">
+        <div class="mt-8 md:order-1 md:mt-0">
+            <p class="text-center text-base text-gray-400">
+                &copy; 2024 {title}
+            </p>
+            <p class="text-center text-base text-gray-400">
+                <a href="https://gdg.community.dev" class="text-indigo-500">Google Developers Groups</a>
+            </p>
+        </div>
+    </div>
+</footer>
