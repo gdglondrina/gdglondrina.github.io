@@ -24,6 +24,9 @@ const socials = await Astro.glob("./../pages/socials/*.md");
             <h2 class="text-lg font-semibold text-indigo-500 mt-5">
                 {subtitle}
             </h2>
+
+            <div id="custom-substack-embed" class="mt-3"></div>
+
             <Social
                 socials={socials}
             />
