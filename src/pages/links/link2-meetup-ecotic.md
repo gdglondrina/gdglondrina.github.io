@@ -1,6 +1,5 @@
 ---
-title: GDG no ECOTICNOVA 2024
-subtitle: 28/08 - Primeiro lote liberado
-emoji:
-href: https://www.sympla.com.br/evento/ecoticnova-2024/2525370
+title: Resumo dos últimos meetups
+subtitle: SENAI, Seu Vendrame e ECO.TIC'NOVA
+href: https://gdglondrina.substack.com/p/participe-do-meetup-de-setembro-na
 ---
