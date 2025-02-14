@@ -1,12 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="267.365" height="182.645" viewBox="0 0 267.365 182.645">
-  <g id="Grupo_6" data-name="Grupo 6" transform="translate(-103.08 -420.502)">
-    <g id="Grupo_4" data-name="Grupo 4" transform="translate(2)">
-      <path id="Caminho_6" data-name="Caminho 6" d="M3572.769,3039.322s-16.751-10.472-5.575-27.468,30.407-4.553,30.407-4.553l66.05,37.415s20.3,9.5,11.156,27.609-29.3,8.026-29.3,8.026Z" transform="matrix(-0.53, 0.848, -0.848, -0.53, 4664.342, -967.57)" fill="#ea4335"/>
-      <path id="Caminho_5" data-name="Caminho 5" d="M3572.769,3039.322s-16.751-10.472-5.575-27.468,30.407-4.553,30.407-4.553l66.05,37.415s20.3,9.5,11.156,27.609-29.3,8.026-29.3,8.026Z" transform="translate(-3457 -2511)" fill="#4285f4"/>
-    </g>
-    <g id="Grupo_5" data-name="Grupo 5" transform="translate(471.524 1023.65) rotate(180)">
-      <path id="Caminho_6-2" data-name="Caminho 6" d="M3572.769,3039.322s-16.751-10.472-5.575-27.468,30.407-4.553,30.407-4.553l66.05,37.415s20.3,9.5,11.156,27.609-29.3,8.026-29.3,8.026Z" transform="matrix(-0.53, 0.848, -0.848, -0.53, 4664.342, -967.57)" fill="#fbbc04"/>
-      <path id="Caminho_5-2" data-name="Caminho 5" d="M3572.769,3039.322s-16.751-10.472-5.575-27.468,30.407-4.553,30.407-4.553l66.05,37.415s20.3,9.5,11.156,27.609-29.3,8.026-29.3,8.026Z" transform="translate(-3457 -2511)" fill="#0f9d58"/>
-    </g>
-  </g>
+<svg width="365" height="210" viewBox="0 0 365 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="-3.09989" y="96.616" width="170.519" height="74.6854" rx="37.3427" transform="rotate(-36.1971 -3.09989 96.616)" fill="#6366F1" stroke="black" stroke-width="6"/>
+<path d="M147.665 130.778L69.4536 75.3977C52.6221 63.4795 29.3159 67.4626 17.3978 84.2942C5.47964 101.126 9.46277 124.432 26.2943 136.35L104.506 191.731C121.338 203.649 144.644 199.666 156.562 182.834C168.48 166.002 164.497 142.696 147.665 130.778Z" fill="#C2C3E6" stroke="black" stroke-width="6"/>
+<rect x="0.714718" y="-4.18201" width="170.519" height="74.6854" rx="37.3427" transform="matrix(-0.816121 0.577881 0.577881 0.816121 328.444 56.712)" fill="#6366F1" stroke="black" stroke-width="6"/>
+<rect x="4.19267" y="-0.649274" width="170.519" height="74.6854" rx="37.3427" transform="matrix(-0.80699 -0.590565 -0.590565 0.80699 370.521 99.51)" fill="#C2C3E6" stroke="black" stroke-width="6"/>
 </svg>
