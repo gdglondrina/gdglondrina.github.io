@@ -1,6 +1,6 @@
 ---
-title: Meetup de Agosto - Inscrições!
-subtitle: Sab 30/08 9h da manhã na ACIL
+title: Meetup de Setembro - Inscrições!
+subtitle: Terça 30/09 19h no SENAI
 emoji: 🚀
-href: https://www.sympla.com.br/evento/gdg-londrina-meetup-agosto-2025/3088895
+href: https://www.sympla.com.br/evento/gdg-londrina-meetup-setembro-2025/3127645
 ---
